@@ -1,6 +1,5 @@
 ## TempProber: Monitors Drivers in Error, Warn, or Missing States from Device Manager
-###### Part of our [RMMProberScripts](https://github.com/InviseLabs/RMMProberScripts) – A collection of deployable Windows-based command-line scripts designed to warn you of concerning hardware or sensor problems. Each tool outputs the associated raw troubleshooting values, along with a PASS or FAIL and proper exit codes. Use with RMM or IT Admin software to alert you when a script check FAILs.
-###### Invise Labs is a division of, and sponsored by, [Invise Solutions - IT & Computer Services](https://invisesolutions.com/) - We are IT professionals making tools and programs for use by other IT pros.
+###### Part of our [RMMProberScripts](https://github.com/InviseLabs/RMMProberScripts) – A collection of deployable Windows-based command-line scripts designed to warn you of concerning hardware or sensor problems. Each tool outputs the associated raw troubleshooting values, along with a PASS or FAIL and proper exit codes. Use with RMM or IT Admin software to alert you when a script check FAILs. — Invise Labs is a division of, and sponsored by, [Invise Solutions - IT & Computer Services](https://invisesolutions.com/) - We are IT professionals making tools and programs for use by other IT pros.
 
 A small Windows-based command-line tool which outputs all temperature sensor data detected, along with a PASS or FAIL if temps are too high. Some sensors are faulty, so check output before turning on alerts inside your RMM dashboard.
 
